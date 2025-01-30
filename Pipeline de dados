@@ -1,0 +1,4 @@
+Pipeline de dados: combinando Python e orientação a objeto
+Neste código foi empregado a linguagem python com a finalidade de receber dados de duas empresas diferentes que estão realizando uma fusão de mercado, dessa forma unindo seus bancos de dados.
+As empresas utilizam formatos de arquivo diferentes para armazenamento dos dados, com nomes chave diferentes e em quantidades distintas.
+A finalidade do código é receber os dados, processar e salvar em arquivo único padronizando os dados.
