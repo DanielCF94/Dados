@@ -1,6 +1,3 @@
-import json
-import csv
-
 from processamento_dados import Dados
 
 path_json = 'data_raw/dados_empresaA.json'
